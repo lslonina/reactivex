@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reactive-javarx.iml" filepath="$PROJECT_DIR$/.idea/modules/reactive-javarx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reactive-javarx_main.iml" filepath="$PROJECT_DIR$/.idea/modules/reactive-javarx_main.iml" group="reactive-javarx" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reactive-javarx_test.iml" filepath="$PROJECT_DIR$/.idea/modules/reactive-javarx_test.iml" group="reactive-javarx" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/reactivex.iml" filepath="$PROJECT_DIR$/.idea/reactivex.iml" />
+    </modules>
+  </component>
+</project>
